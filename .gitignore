@@ -107,6 +107,7 @@ pip-delete-this-directory.txt
 # DB
 *.db
 *.sqlite3
+secureai.db
 
 # OS
 .DS_Store
